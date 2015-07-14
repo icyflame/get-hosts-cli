@@ -2,7 +2,7 @@
 
 > `etc/hosts` as an array of arrays, on the CLI.
 
-[![Build Status](https://travis-ci.org/icyflame/get-hosts.svg?branch=master)](https://travis-ci.org/icyflame/get-hosts-cli)
+[![Build Status](https://travis-ci.org/icyflame/get-hosts-cli.svg?branch=master)](https://travis-ci.org/icyflame/get-hosts-cli)
 
 [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/Flet/semistandard)
 
