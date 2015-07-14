@@ -1,0 +1,43 @@
+{
+  "name": "get-hosts-cli",
+  "version": "0.0.0",
+  "description": "`etc/hosts` as an array of arrays, on the CLI.",
+  "license": "MIT",
+  "repository": "icyflame/get-hosts-cli",
+  "author": {
+    "name": "Siddharth Kannan",
+    "email": "kannan.siddharth12@gmail.com",
+    "url": "icyflame.github.io"
+  },
+  "bin": {
+    "get-hosts": "cli.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "semistandard && mocha"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "get-hosts",
+    "etc",
+    "hosts",
+    "pretty",
+    "view"
+  ],
+  "dependencies": {
+    "get-hosts": "^1.0.0",
+    "meow": "^3.3.0",
+    "obj-to-table": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "semistandard": "6.1.1"
+  }
+}
