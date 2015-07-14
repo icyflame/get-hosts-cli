@@ -1,6 +1,6 @@
 {
   "name": "get-hosts-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "`etc/hosts` as an array of arrays, on the CLI.",
   "license": "MIT",
   "repository": "icyflame/get-hosts-cli",
