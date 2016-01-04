@@ -39,6 +39,11 @@ $ get-hosts --help
 ```
 
 
+## Related
+
+- [hemanth/get-hosts](https://github.com/hemanth/get-hosts) - API for this module
+
+
 ## License
 
 MIT © [Siddharth Kannan](http://icyflame.github.io)
